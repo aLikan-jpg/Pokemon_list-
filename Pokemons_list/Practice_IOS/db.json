@@ -1,0 +1,94 @@
+{
+  "Pokemons" : [
+    {
+      "name" : "Bulbasaur",
+      "id"   : "#001",
+      "image" : "1",
+      "info" :
+      {
+          "image" : "Bulbasaur1",
+          "bio" : "Bulbasaurus can be seen dormant in the bright sunlight. On its back there is a seed. In the sun the seed grows and becomes larger.",
+          "strength" : "3",
+          "height" : "0.7 m",
+          "weight" : "6.9 kg",
+          "type"   : "Seed",
+          "talant" : "Explosive growth"
+      }
+    },
+    {
+      "name" : "Ivysaur",
+      "id"   : "#002",
+      "image" : "4",
+      "info" :
+      {
+          "image" : "Ivysaur1",
+          "bio" : "On the back of this Pokémon there is a kidney. In order to withstand this weight, Ivisaver needs to have a thick body and strong legs. If the creature begins to spend more time lying in the sun, it is a sign that the kidney will bloom and turn into a large flower soon.",
+          "strength" : "3",
+          "height" : "1.0 m",
+          "weight" : "13 kg",
+          "type"   : "Seed",
+          "talant" : "Explosive growth"
+      }
+    },
+    {
+      "name" : "Venusaur",
+      "id"   : "#003",
+      "image" : "5",
+      "info" :
+      {
+          "image" : "Venusaur1",
+          "bio" : "On the back of Venuzaurus there is a large flower. It will be colored in bright colors if it gets a large amount of nutrients and sunlight. The floral aroma soothes people’s emotions.",
+          "strength" : "4",
+          "height" : "2.0 m",
+          "weight" : "100 kg",
+          "type"   : "Seed",
+          "talant" : "Explosive growth"
+      }
+    },
+    {
+      "name" : "Charmander",
+      "id"   : "#004",
+       "image" : "3",
+      "info" :
+      {
+          "image" : "Charmander1",
+          "bio" : "The flame that burns at the tip of the tail is an indicator of his emotions. The flame stirs when Charmander is pleased. If a Pokémon is enraged, the flames burn more intensely.",
+          "strength" : "3",
+          "height" : "0.6 m",
+          "weight" : "8.5 kg",
+          "type"   : "Lizard",
+          "talant" : "Flame"
+      }
+    },
+    {
+      "name" : "Squirtle",
+      "id"   : "#007",
+       "image" : "0",
+      "info" :
+      {
+          "image" : "Squirtle1",
+          "bio" : "Squirtle doesn’t just use his shell for protection. Such a round-shaped shell and grooves on its surface help minimize resistance in water, allowing this Pokémon to swim at high speeds.",
+          "strength" : "3",
+          "height" : "0.6 m",
+          "weight" : "9.0 kg",
+          "type"   : "Little turtle",
+          "talant" : "Flow"
+      }
+    },
+    {
+      "name" : "Pikachu",
+      "id"   : "#025",
+       "image" : "2",
+      "info" :
+      {
+          "image" : "Pikachu1",
+          "bio" : "Whenever Pikachu encounters something new, it can hit him with an electric shock. If you encounter, for example, blackened berries, this is direct proof that Pikachu mistook them for something else.",
+          "strength" : "3",
+          "height" : "0.4 m",
+          "weight" : "6.0 kg",
+          "type"   : "Mouse",
+          "talant" : "Paralysis"
+      }
+    }
+    ]
+    }
